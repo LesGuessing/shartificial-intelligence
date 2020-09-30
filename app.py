@@ -87,5 +87,5 @@ def not_found(e):
     return render_template('404.html')
 
 
-if __name__ == '__main__':
+if __name__ == '__main__':mobile app on Android
     app.run(debug=True)
